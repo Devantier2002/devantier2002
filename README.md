@@ -9,6 +9,7 @@ Atualmente atuo no ramo óptico, mas estou em transição para a área de desenv
 - Python
 - MySQL
 - React
+- NodeJS
 
 ## 📚 Formação
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UniSenac - Campus Pelotas (3º semestre de 6)
