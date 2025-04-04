@@ -20,9 +20,12 @@ I am currently looking for my **first opportunity as a developer**. My main focu
 - 📂 [GitHub](#) *(add your profile here)*
 - 📧 Email: *(add your email here)*
 
-I'm always open to connections, collaborations, and new learning opportunities! 🚀#
+I'm always open to connections, collaborations, and new learning opportunities! 🚀
 
-👋 Olá, eu sou Lucas Devantier Pinto!
+
+
+
+#👋 Olá, eu sou Lucas Devantier Pinto!
 
 Atualmente atuo no ramo óptico, mas estou em transição para a área de desenvolvimento. Sou apaixonado por tecnologia e programação, e estou constantemente aprendendo e evoluindo.
 
