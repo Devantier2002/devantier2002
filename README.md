@@ -20,7 +20,7 @@ I currently work in the optical industry, but I'm transitioning into **backend d
 
 ## 📚 Education
 🎓 **Analysis and Systems Development** – UniSenac (Pelotas Campus)  
-Currently in the 4th semester (out of 6)
+Currently in the 5th semester (out of 6)
 
 ---
 
@@ -77,7 +77,7 @@ Atualmente atuo como **Montador de Instrumentos Ópticos**, mas estou em transi�
 
 ## 📚 Formação Acadêmica
 🎓 **Análise e Desenvolvimento de Sistemas** – UniSenac (Pelotas)  
-Cursando o 4º semestre (de 6)
+Cursando o 5º semestre (de 6)
 
 ---
 
